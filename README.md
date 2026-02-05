@@ -1,14 +1,33 @@
-## Hi there 👋
-I'm Xitiz, a frontend web-devloper based in Nepal.
-I build **clean, minimal, and mobile-responsive web interfaces** with a strong focus on usability and performance.
-I haven't post a public reposotory yet in this account but in near future i am going too publish all my build.
+## Hey there 👋
 
+I’m **Xitiz**, a frontend web developer based in **Nepal**.  
+I build **clean, minimal, and mobile-responsive web interfaces** with a strong focus on **usability and performance**.
 
-My main tech stacks are react, pure vanila javascript tailwind and pure css. 
+This is a fresh profile. I haven’t published public repositories yet, but I’m actively building projects and will be releasing them here in the near future — **all built from scratch**.
 
-Fun fact about me:
-- Clean UI and minimal design > flashy UI
-- Shipping small projects > hoarding tutorials
+---
+
+### 🛠 Tools & Tech
+
+- React
+- JavaScript (Vanilla, ES6+)
+- Tailwind CSS
+- Pure CSS (Flexbox, Grid)
+- Responsive & mobile-first design
+
+---
+
+### 💡 Principles I work by
+
+- Clean UI & minimal design **>** flashy UI  
+- Shipping small, complete projects **>** hoarding tutorials  
+- Fundamentals **before** frameworks  
+
+---
+
+### 📌 Notes
+
+I focus on writing **understandable, maintainable frontend code** and turning designs into functional, real-world interfaces.
 
 <!--
 **XItizmgr/Xitizmgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
