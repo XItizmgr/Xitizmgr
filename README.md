@@ -1,4 +1,17 @@
 ## Hi there 👋
+I'm Xitiz, a frontend web-devloper based in Nepal.
+I build **clean, minimal, and mobile-responsive web interfaces** with a strong focus on usability and performance.
+I haven't post a public reposotory yet in this account but in near future i am going too publish all my build.
+
+
+What I work with:
+-React
+-Vanila javascript
+-Tailwind and pure css
+
+Fun fact about me:
+- Clean UI and minimal design > flashy UI
+- Shipping small projects > hoarding tutorials
 
 <!--
 **XItizmgr/Xitizmgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
