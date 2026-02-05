@@ -4,10 +4,7 @@ I build **clean, minimal, and mobile-responsive web interfaces** with a strong f
 I haven't post a public reposotory yet in this account but in near future i am going too publish all my build.
 
 
-What I work with:
--React
--Vanila javascript
--Tailwind and pure css
+My main tech stacks are react, pure vanila javascript tailwind and pure css. 
 
 Fun fact about me:
 - Clean UI and minimal design > flashy UI
