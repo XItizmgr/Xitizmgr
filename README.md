@@ -3,7 +3,7 @@
 I’m **Xitiz**, a frontend web developer based in **Nepal**.  
 I build **clean, minimal, and mobile-responsive web interfaces** with a strong focus on **usability and performance**.
 
-This is a fresh profile. I haven’t published public repositories yet, but I’m actively building projects and will be releasing them here in the near future — **all built from scratch**.
+This is a fresh profile. I haven’t published public repositories yet, but I’m actively building projects and will be releasing them here in the near future.
 
 ---
 
